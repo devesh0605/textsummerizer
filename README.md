@@ -5,6 +5,6 @@ Then run the .exe file and put the name in the field and press generate summary 
 You can download the .exe file in dist folder and keep your text file and .exe file in same folder and run it.
 Thank you!!!!
 
-<img width="50%" src="https://github.com/devesh0605/passwordgenerator/blob/master/Tset%20Case%201.png" alt="Image 1">
+<img width="50%" src="https://github.com/devesh0605/textsummerizer/blob/main/test%20case.png" alt="Image 1">
 
 
